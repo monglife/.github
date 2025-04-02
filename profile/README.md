@@ -3,9 +3,6 @@
 
 Mong Life는 우주 컨셉의 캐릭터를 기반으로 사람들에게 좋은 경험을 주기 위한 조직입니다. 사용자의 일상을 더 건강하고 즐겁게 만들기 위해 다양한 서비스를 개발하고 있습니다.
 
-## 🛠 System Architecture
-![전체 아키텍처](assets/architecture_all.png)
-
 ## 🏗 Repository Overview
 
 ### - [Monglife Discovery](https://github.com/monglife/monglife-discovery)
@@ -40,3 +37,6 @@ Mong Life는 우주 컨셉의 캐릭터를 기반으로 사람들에게 좋은 �
 - ```Mongs```서비스를 제공하는 안드로이드 웨어러블 앱을 구현한 프로젝트입니다.
 - ```Native Android(Kotlin)```, ```Jetpack-Compose(Wear OS)```을 기반으로 개발되었습니다.
 - 현재 [Google Play](https://play.google.com/store/apps/details?id=com.mongs.wear)에 출시되어 다운로드 수 ```1,000회```, 일간 사용자 ```100명```을 달성했습니다.
+
+## 🛠 System Architecture
+![전체 아키텍처](assets/architecture_all.png)
